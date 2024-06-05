@@ -16,7 +16,3 @@ This repository showcases the development of a responsive piano interface using 
 **Contributing:**
 
 Contributions are encouraged! Fork this repository, make your modifications, and submit a pull request.
-
-**License:**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
